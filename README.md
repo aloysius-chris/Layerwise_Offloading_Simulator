@@ -72,4 +72,4 @@ These notes match the description in the article.
 
 ## Licence and citation
 
-[To be added by the authors: choose a licence, for example MIT or BSD-3-Clause, and add the article citation and the Zenodo DOI once available.]
+[![DOI](https://zenodo.org/badge/1434461836.svg)](https://doi.org/10.5281/zenodo.23668104)
